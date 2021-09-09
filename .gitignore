@@ -1,0 +1,5 @@
+.idea*
+.ipynb_checkpoints*
+.gitignore
+*__pycache__*
+app/credentials.json
